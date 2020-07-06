@@ -131,8 +131,6 @@ Zu guter Letzt kann man im Screenshot die Standard Apache Webseite erkennen, wel
 ![](https://github.com/yck-l/M300-Docker/blob/master/00-Images/apache.PNG "Apache")
 
 
-Die Zwei Datenbanken welche mit den Services kombiniert wurden kann man im untenstehenden Screenshot erkennen.
-
 
 ### 2. Bestehende Container als Backend, Desktop-App als Frontend  einsetzen
 Die NextCloud bietet sich perfekt für dieses Lernziel an, da die NextCloud eine Backend App ist, welche jedoch auch ein Frontend besitzt. Die Daten, welche im Frontend abgelegt werden, werden im Backend gespeichert. Somit ist dieses Lernziel für mich abgehackt.
