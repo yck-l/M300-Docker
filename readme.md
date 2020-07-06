@@ -183,7 +183,7 @@ Um das Tool zu starten, kann man den folgenden Befehl verwenden:
 ### 2. Service-Überwachung ist eingerichte
 Auch diese Kompetenz konnten wir mit dem Cadvisor abdecken. Cadvisor überwacht die Services und deren Auslastungen der Containern und zeigt die Werte in einem Benutzerfreundlichen Diagramm an. Ein solches Diagramm können Sie im unteren Screenshot betrachten.
 
-![](https://github.com/tbztim/M300-LB03/blob/master/00-Bilder/cadvisor2.png "cADvisor2")
+![](https://github.com/tbztim/M300-LB03/blob/master/00-Bilder/cadv.png "Cadvisor")
 
 
 ### 3. mind. 3 Aspekte der Container-Absicherung sind berücksichtigt
